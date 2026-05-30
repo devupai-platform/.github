@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="devu.webp" alt="DEVUP AI" width="200" alt="DEVUP AI" width="200" />
+  <img src="https://raw.githubusercontent.com/devupai-platform/.github/main/profile/devu.webp" alt="DEVUP AI" width="200" />
 </p>
 
 <h1 align="center">DEVUP AI</h1>
@@ -104,8 +104,8 @@ console.log(completion.choices[0].message.content);
 
 | Repository | Description |
 | :--- | :--- |
-| [`devupai-node`](https://github.com/DevUp-AI-Gateway/devupai-node) | Official Node.js & TypeScript SDK for DEVUP AI |
-| [`devupai-examples`](https://github.com/DevUp-AI-Gateway/devupai-examples) | Production-ready starter kits and integration examples |
+| [`devupai-node`](https://github.com/devupai-platform/devupai-node) | Official Node.js & TypeScript SDK for DEVUP AI |
+| [`devupai-examples`](https://github.com/devupai-platform/devupai-examples) | Production-ready starter kits and integration examples |
 
 ---
 
