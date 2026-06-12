@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Models-140+-orange?style=for-the-badge" alt="140+ Models" />
+  <img src="https://img.shields.io/badge/Models-170+-orange?style=for-the-badge" alt="170+ Models" />
   <img src="https://img.shields.io/badge/Billing-DZD-green?style=for-the-badge" alt="DZD Billing" />
   <img src="https://img.shields.io/badge/Cold_Starts-Zero-blue?style=for-the-badge" alt="Zero Cold Starts" />
   <img src="https://img.shields.io/badge/API-OpenAI_Compatible-blueviolet?style=for-the-badge" alt="OpenAI Compatible" />
@@ -26,7 +26,7 @@
 
 ## 🚀 What is DEVUP AI?
 
-**DEVUP AI** is a fully managed AI inference gateway built for developers, startups, and enterprises across Algeria and the MENA region. We provide **drop-in OpenAI-compatible APIs** backed by a fleet of 140+ state-of-the-art models — all billed natively in **Algerian Dinar (DZD)**.
+**DEVUP AI** is a fully managed AI inference gateway built for developers, startups, and enterprises across Algeria and the MENA region. We provide **drop-in OpenAI-compatible APIs** backed by a fleet of 170+ state-of-the-art models — all billed natively in **Algerian Dinar (DZD)**.
 
 Point your existing OpenAI SDK at `api.devupai.com` and you're live. No code changes. No vendor lock-in.
 
@@ -36,7 +36,7 @@ Point your existing OpenAI SDK at `api.devupai.com` and you're live. No code cha
 
 | Feature | Description |
 | :--- | :--- |
-| **140+ Models** | DeepSeek V3, Llama 3.1 405B, Qwen 3, Gemma 2, Mistral, and more |
+| **170+ Models** | DeepSeek V3, Llama 3.1 405B, Qwen 3, Gemma 2, Mistral, and more |
 | **OpenAI-Compatible** | Works with any OpenAI SDK — Python, Node.js, Go, Rust, cURL |
 | **Anthropic-Compatible** | Native Claude SDK support via our translation gateway |
 | **DZD Billing** | Pay in Algerian Dinar. No international card required |
