@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://devupai.com">Website</a> •
-  <a href="https://devupai.com/docs">Documentation</a> •
+  <a href="https://docs.devupai.com/">Documentation</a> •
   <a href="https://devupai.com/dashboard">Dashboard</a> •
   <a href="mailto:support@devupai.com">Support</a>
 </p>
@@ -112,7 +112,7 @@ console.log(completion.choices[0].message.content);
 ## 🔗 Links
 
 - 🌐 **Website:** [devupai.com](https://devupai.com)
-- 📖 **Documentation:** [devupai.com/docs]([https://devupai.com/docs](https://docs.devupai.com)
+- 📖 **Documentation:** [https://docs.devupai.com](https://docs.devupai.com)
 - 📊 **Dashboard:** [devupai.com/dashboard](https://devupai.com/dashboard)
 - 📧 **Support:** [support@devupai.com](mailto:support@devupai.com)
 
