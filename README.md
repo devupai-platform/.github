@@ -112,7 +112,7 @@ console.log(completion.choices[0].message.content);
 ## 🔗 Links
 
 - 🌐 **Website:** [devupai.com](https://devupai.com)
-- 📖 **Documentation:** [devupai.com/docs](https://devupai.com/docs)
+- 📖 **Documentation:** [devupai.com/docs]([https://devupai.com/docs](https://docs.devupai.com)
 - 📊 **Dashboard:** [devupai.com/dashboard](https://devupai.com/dashboard)
 - 📧 **Support:** [support@devupai.com](mailto:support@devupai.com)
 
