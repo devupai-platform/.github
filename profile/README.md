@@ -70,8 +70,8 @@
     </td>
     <td width="33%" valign="top">
       <h3>🔒 Your data stays yours</h3>
-      Prompts and completions are never used to train or fine-tune
-      models.
+      DEVUP AI never uses your prompts or completions to train any
+      model, and does not store them.
     </td>
   </tr>
 </table>
@@ -364,10 +364,15 @@ Node.js 22.12 or later. Upgrading from 3.x? Read the
 
 ## Privacy
 
-- Prompts and completions are **not used to train or fine-tune models**.
+- DEVUP AI **never uses your prompts or completions to train any model**.
+- Open-weight models are served under terms that do not allow training on
+  your content. For proprietary models, the model provider's data-use policy
+  also applies.
+- DEVUP AI does not store prompts or completions.
 - Usage metadata is recorded for billing and operations: time, model, token
   counts, latency and cost. It does not include prompt or completion content.
-- Prompt caching may be used to answer repeated prompts faster. See
+- Prompt caching may keep a prompt for a short time to answer repeated
+  prompts faster. See
   [Prompt Caching](https://docs.devupai.com/docs/prompt-caching).
 
 Read the full policies before processing regulated or highly sensitive data:
